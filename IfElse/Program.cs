@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            var a = 7;
+            var a = 6;
             var b = 7;
 
             if (a == b)
@@ -14,6 +14,9 @@
             else
             {
                 Console.WriteLine("Условие ложно");
+
+                if (b < 10)
+                    Console.WriteLine("Значение b = {0}", b);
             }
         }
     }
