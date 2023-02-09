@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var myapples = 5;
+            var hisapples = 6;
+            var hispeares = 5;
+
+            var result = (myapples != hispeares) & (myapples < hisapples);
+
+            Console.WriteLine(result);
+            Console.ReadKey();
         }
     }
 }
