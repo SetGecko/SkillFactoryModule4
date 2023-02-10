@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_4.2_While", "Pract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_4.2_DoWhile", "Practice_4.2_DoWhile\Practice_4.2_DoWhile.csproj", "{5BB08862-FAF9-4EFA-BF0E-F088932831C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.2.11", "Task_4.2.11\Task_4.2.11.csproj", "{05544151-5A34-4EC3-B9A6-D3671E15BF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionOfNumbers", "AdditionOfNumbers\AdditionOfNumbers.csproj", "{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{5BB08862-FAF9-4EFA-BF0E-F088932831C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BB08862-FAF9-4EFA-BF0E-F088932831C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BB08862-FAF9-4EFA-BF0E-F088932831C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05544151-5A34-4EC3-B9A6-D3671E15BF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05544151-5A34-4EC3-B9A6-D3671E15BF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05544151-5A34-4EC3-B9A6-D3671E15BF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05544151-5A34-4EC3-B9A6-D3671E15BF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
