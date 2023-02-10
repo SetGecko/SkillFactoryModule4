@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparisons4.1", "Comparisons\Comparisons4.1.csproj", "{8D8D5777-F6A5-4617-AA67-17B04566A062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparisons4.1", "Comparisons\Comparisons4.1.csproj", "{8D8D5777-F6A5-4617-AA67-17B04566A062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.1.4", "Task_4.1.4\Task_4.1.4.csproj", "{DA9DB1FE-D621-49B2-9811-69A5D5FCCB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.4", "Task_4.1.4\Task_4.1.4.csproj", "{DA9DB1FE-D621-49B2-9811-69A5D5FCCB82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.1.5", "Task_4.1.5\Task_4.1.5.csproj", "{E3F332CB-64BD-4018-9B6F-0D249AA0B42E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.5", "Task_4.1.5\Task_4.1.5.csproj", "{E3F332CB-64BD-4018-9B6F-0D249AA0B42E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.1.10", "Task_4.1.10\Task_4.1.10.csproj", "{75A3BC26-24B8-4CED-8158-291C364FF3B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.10", "Task_4.1.10\Task_4.1.10.csproj", "{75A3BC26-24B8-4CED-8158-291C364FF3B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{A48225B3-20F5-478D-9566-19CB76F67D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{A48225B3-20F5-478D-9566-19CB76F67D6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperation", "TernaryOperation\TernaryOperation.csproj", "{03F451A7-3CC6-4FC8-9EA7-DF25F7E65B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TernaryOperation", "TernaryOperation\TernaryOperation.csproj", "{03F451A7-3CC6-4FC8-9EA7-DF25F7E65B41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.1.16", "Task_4.1.16\Task_4.1.16.csproj", "{AE36F191-1375-46FA-8247-76198D3C2712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.16", "Task_4.1.16\Task_4.1.16.csproj", "{AE36F191-1375-46FA-8247-76198D3C2712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.1.18", "Task_4.1.18\Task_4.1.18.csproj", "{A774DFDF-3AF3-4332-8447-F2404C3AE00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.18", "Task_4.1.18\Task_4.1.18.csproj", "{A774DFDF-3AF3-4332-8447-F2404C3AE00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles_4.2", "Cycles_4.2\Cycles_4.2.csproj", "{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{A774DFDF-3AF3-4332-8447-F2404C3AE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A774DFDF-3AF3-4332-8447-F2404C3AE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A774DFDF-3AF3-4332-8447-F2404C3AE00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
