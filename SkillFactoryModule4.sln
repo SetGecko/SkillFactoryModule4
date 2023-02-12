@@ -19,17 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.16", "Task_4.1.16\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.1.18", "Task_4.1.18\Task_4.1.18.csproj", "{A774DFDF-3AF3-4332-8447-F2404C3AE00F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles_4.2", "Cycles_4.2\Cycles_4.2.csproj", "{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycles_4.2", "Cycles_4.2\Cycles_4.2.csproj", "{D7D08F1C-F67D-4EF1-93D3-2BCC0B05D8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_4.2_For", "Practice_4.2_For\Practice_4.2_For.csproj", "{12EBB2DC-81B9-442E-B088-7B31C8CDE0F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_4.2_For", "Practice_4.2_For\Practice_4.2_For.csproj", "{12EBB2DC-81B9-442E-B088-7B31C8CDE0F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_4.2_While", "Practice_4.2_While\Practice_4.2_While.csproj", "{EA0750C1-15DA-4AAB-A4A8-0190792ACA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_4.2_While", "Practice_4.2_While\Practice_4.2_While.csproj", "{EA0750C1-15DA-4AAB-A4A8-0190792ACA6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_4.2_DoWhile", "Practice_4.2_DoWhile\Practice_4.2_DoWhile.csproj", "{5BB08862-FAF9-4EFA-BF0E-F088932831C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_4.2_DoWhile", "Practice_4.2_DoWhile\Practice_4.2_DoWhile.csproj", "{5BB08862-FAF9-4EFA-BF0E-F088932831C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.2.11", "Task_4.2.11\Task_4.2.11.csproj", "{05544151-5A34-4EC3-B9A6-D3671E15BF54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4.2.11", "Task_4.2.11\Task_4.2.11.csproj", "{05544151-5A34-4EC3-B9A6-D3671E15BF54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionOfNumbers", "AdditionOfNumbers\AdditionOfNumbers.csproj", "{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdditionOfNumbers", "AdditionOfNumbers\AdditionOfNumbers.csproj", "{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{9E8C7EEB-A7BD-4D8F-9770-6260FB90D3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeArrays", "PracticeArrays\PracticeArrays.csproj", "{C84A4314-393E-4A1C-AC87-20B83F540DDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0FE9C7F-54D6-44BE-A6F0-CC4C16CBD924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8C7EEB-A7BD-4D8F-9770-6260FB90D3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8C7EEB-A7BD-4D8F-9770-6260FB90D3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8C7EEB-A7BD-4D8F-9770-6260FB90D3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8C7EEB-A7BD-4D8F-9770-6260FB90D3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84A4314-393E-4A1C-AC87-20B83F540DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84A4314-393E-4A1C-AC87-20B83F540DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84A4314-393E-4A1C-AC87-20B83F540DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84A4314-393E-4A1C-AC87-20B83F540DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
