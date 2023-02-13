@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.3.13", "Task_4.3.13\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.3.14_ToothedArray", "Task_4.3.14_ToothedArray\Task_4.3.14_ToothedArray.csproj", "{18E6B715-850D-409E-AD18-D7643C74884C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4.3.15", "Task_4.3.15\Task_4.3.15.csproj", "{978AF259-8ACC-4FA4-A77D-07D39547C5D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{18E6B715-850D-409E-AD18-D7643C74884C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18E6B715-850D-409E-AD18-D7643C74884C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18E6B715-850D-409E-AD18-D7643C74884C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978AF259-8ACC-4FA4-A77D-07D39547C5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978AF259-8ACC-4FA4-A77D-07D39547C5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978AF259-8ACC-4FA4-A77D-07D39547C5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978AF259-8ACC-4FA4-A77D-07D39547C5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
